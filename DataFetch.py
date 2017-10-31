@@ -1,8 +1,8 @@
 import time, random, http.client, json, string
 from hashlib import sha1
 
-caller_id = 'oheurlin'
-private_key = 'ebqH0t5vPsUHqPxQ6wQ5XllbmQdBmG2YRyMJvae0'
+caller_id = 'API_USERNAME'
+private_key = 'API_KEY'
 
 offset = 0
 total_count = 0
